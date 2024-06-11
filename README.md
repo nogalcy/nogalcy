@@ -6,7 +6,7 @@ I'm Cy! I am a CS/DS Double Major at Purdue University with concentrations in Ma
 
 - 👨‍🏫 I am an International Computer Science Researcher with <a href="https://jasonwarephd.com/">Dr. Jason Ware</a> and the city of Lafayette, IN
 
-- 👨‍💻 SWE Intern at <a href="https://www.dometicgroup.com/en-us">Dometic Group</a>
+- 👨‍💻 SWE Intern at <a href="https://www.dometicgroup.com/en-us">Dometic Group</a>, Ex-DS Intern at <a href = "https://safe-families.org/">Safe Families for Children</a>
 
 - 🚀 Researcher at the Google x Purdue TensorFlow Model Garden, focusing on ONNX deep-learning conversions
 
