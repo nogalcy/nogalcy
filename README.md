@@ -20,5 +20,5 @@ I'm Cy! I am a CS/DS Double Major at Purdue University with concetrations in Mac
 + 🏀 Intermural Basketball flamethrower, The Wii Gold Tiger Woods
 
 ## Contact
-- [](https://www.linkedin.com/in/cy-logan/)
-- [](clogan2004@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/cy-logan/)
+- [Email](clogan2004@gmail.com)
