@@ -16,7 +16,7 @@ I'm Cy! I am a CS/DS Double Major at Purdue University with concentrations in Ma
 - 👨‍💻 Python, TensorFlow, Java, C/C++, Javascript, HTML/CSS, SQL, AWS
 - ⚙️ React, Node, Express, PostgreSQL, Bootstrap
 - 💽 DSA, Analysis of Algorithms, OOP, Computer Architecture
-+ 🏀 Intermural Basketball flamethrower, The Wii Golf Tiger Woods
++ 🏀 Intramural Basketball flamethrower, The Wii Golf Tiger Woods
 
 ## Contact
 - <a href="https://www.linkedin.com/in/cy-logan/">LinkedIn</a>
