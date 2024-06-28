@@ -13,8 +13,8 @@ I'm Cy! I am a CS/DS Double Major at Purdue University with concentrations in Ma
 - 👥 Undergraduate Presenter at the National Conference for Undergraduate Research in Long Beach, CA and at ISQOLS in Rotterdam, The Netherlands
 
 ## Skills
-- 👨‍💻 Python, TensorFlow, Java, C/C++, Javascript, HTML/CSS, SQL, AWS
-- ⚙️ React, Node, Express, PostgreSQL, Bootstrap
+- 👨‍💻 Python, Java, C/C++, Javascript, HTML/CSS, SQL, AWS
+- ⚙️ TensorFlow, React, Node, Express, SQL/PostgreSQL, Postman, IoT
 - 💽 DSA, Analysis of Algorithms, OOP, Computer Architecture
 + 🏀 Intramural Basketball flamethrower, The Wii Golf Tiger Woods
 
